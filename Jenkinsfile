@@ -1,4 +1,4 @@
-@Library('custom@v2.0')_
+@Library('custom@v1.0')_
 
  stage('Demo') {
      echo 'Hello world'
