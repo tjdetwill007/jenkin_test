@@ -2,6 +2,6 @@
 
  stage('Demo') {
      echo 'Hello world'
-     echo "this is version 1"
+     echo "this is version 2 updated"
      say 'RAHUL'
  }
